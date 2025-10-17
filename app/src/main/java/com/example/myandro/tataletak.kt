@@ -138,7 +138,7 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
             Image(painter = gambar,
                 contentDescription = null,
                 contentScale = ContentScale.Fit)
-            Text(text = "My Music",
+            Text(text = "My Family",
                 fontSize = 50.sp,
                 color = Color.Red,
                 fontWeight = FontWeight.Bold,
